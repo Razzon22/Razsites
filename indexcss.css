@@ -13,7 +13,7 @@ h1 {
 	background-image: linear-gradient(to bottom, #eba542, orange);
 	border-radius: 50px;
 	padding: 30px;
-	margin: 20px;
+	margin: 40px 20px 20px 20px;
 	line-height: 35px;
 }
 
@@ -31,7 +31,7 @@ h2 {
 	border-radius: 30px;
 	padding: 114px 49% 115px 49%;
 	position: fixed;
-	margin: 0px 5px;
+	margin: 20px 5px 0px 5px;
 	z-index: -1;
 }
 
