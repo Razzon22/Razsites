@@ -102,6 +102,7 @@ button {
 	margin: auto;
 	width: 350px;
 	text-align: center;
+	position: grid;
 }
 
 button:hover {
