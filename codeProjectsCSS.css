@@ -87,6 +87,11 @@ p {
 a {
 	font-style: normal;
 	font-weight: normal;
+	color: red;
+}
+
+a:active {
+	color: orange;
 }
 
 button {
@@ -94,7 +99,7 @@ button {
 	background-image: linear-gradient(#bf3644, red);
 	border-radius: 10px;
 	padding: 5px;
-	margin: 3px;
+	margin: auto;
 	width: 350px;
 	text-align: center;
 }
